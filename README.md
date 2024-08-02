@@ -3,14 +3,14 @@
 ## Welcome to my github profile! 👋
 
 ## 🎓 Studies
-<h3>
+<h4>
 I graduated from college with a degree in computer science 👨🏻‍💻
-</h3> 
+</h4> 
 
 ## 🎓 What interesting things do I do?
-<h3>
+<h4>
 I'm a Flutter developer 💻, AI enthusiast 🤖, and voleyball player 🏐
-</h3> 
+</h4> 
 
 ## 🚀 Some Tools I Have Used and Learned
 <p align="left">
