@@ -2,19 +2,19 @@
 ## Welcome to my github profile! 👋
 
 ## 🎓 Studies
-<h2>
+<h4>
 I graduated from college with a degree in computer science 👨🏻‍💻
-</h2> 
+</h4> 
 
 ## 🎓 What interesting things do I do?
-<h2>
+<h4>
 I'm a Flutter developer 💻, AI enthusiast 🤖, and voleyball player 🏐
-</h2> 
+</h4> 
 
 ## 🚀 Some Tools I Have Used and Learned
 <p align="left">
 <img src="https://github.com/user-attachments/assets/91d865fe-c8b0-4b7f-bf6e-c1f4254860d9" alt="flutter" width="45" height="45"/>
-<img src="(https://github.com/user-attachments/assets/34f4273e-3d3f-4357-a1d6-0b3bb0a0137a" alt="dart" width="45" height="45"/>
+<img src="(https://github.com/user-attachments/assets/a88e1ccc-0289-4a7c-b2f0-bd96869f9d3c" alt="dart" width="45" height="45"/>
 <img src="https://github.com/user-attachments/assets/c90361d2-d26f-433b-8dde-a1517bd9256c" alt="firebase" width="45" height="45"/>
 <img src="(https://github.com/user-attachments/assets/9a95e133-d3f9-4cdc-9d97-57d08d155f9f" alt="sqlite" width="45" height="45"/>
 <img src="(https://github.com/user-attachments/assets/5f54f949-ef73-4a51-bbf8-5bf62096e915" alt="git" width="45" height="45"/>
