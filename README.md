@@ -14,7 +14,7 @@ I'm a Flutter developer 💻, AI enthusiast 🤖, and voleyball player 🏐
 
 ## 🚀 Some Tools I Have Used and Learned
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/91d865fe-c8b0-4b7f-bf6e-c1f4254860d9" alt="flutter" width="45" height="45" style="padding: 5px; border-radius: 10px; margin-right: 6px; background-color: #444;"/>
+  <img src="https://github.com/user-attachments/assets/91d865fe-c8b0-4b7f-bf6e-c1f4254860d9" alt="flutter" width="45" height="45" style="padding: 5px; border-radius: 10px; margin-right: 25px; background-color: #444;"/>
   <img src="https://github.com/user-attachments/assets/a88e1ccc-0289-4a7c-b2f0-bd96869f9d3c" alt="dart" width="45" height="45" style="padding: 5px; border-radius: 10px; margin-right: 6px; background-color: #444;"/>
   <img src="https://github.com/user-attachments/assets/c90361d2-d26f-433b-8dde-a1517bd9256c" alt="firebase" width="45" height="45" style="padding: 5px; border-radius: 10px; margin-right: 6px; background-color: #444;"/>
   <img src="https://github.com/user-attachments/assets/9a95e133-d3f9-4cdc-9d97-57d08d155f9f" alt="sqlite" width="45" height="45" style="padding: 5px; border-radius: 10px; margin-right: 6px; background-color: #444;"/>
