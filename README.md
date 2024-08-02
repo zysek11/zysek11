@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome to my github profile! 👋
+<img src="https://github.com/user-attachments/assets/64833952-d7b4-42a8-9fca-6ae364bac9d0" alt="my banner">
+
+## 🎓 Studies
+## Passionate about programming, with a focus on developing mobile applications using Flutter.
+
 
 <!--
 **zysek11/zysek11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
